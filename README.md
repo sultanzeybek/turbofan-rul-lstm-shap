@@ -47,7 +47,7 @@ turbofan-rul-lstm-shap/
 ## Dataset
 
 The NASA C-MAPSS dataset is publicly available at:  
-https://data.nasa.gov/Aerospace/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6
+[https://data.nasa.gov/Aerospace/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
 
 Download the six `.txt` files and place them in `data/CMAPSS/`.
 
@@ -146,12 +146,12 @@ mean RMSE, CV = 7.14%), providing empirical support for the No Free Lunch theore
 If you use this code, please cite:
 
 ```bibtex
-@article{zeybek2025rul,
+@article{zeybek2026rul,
   author  = {Zeybek, Sultan and \"{O}zt\"{u}rk, B\"{u}\c{s}ra},
   title   = {Remaining Useful Life Prediction of Turbofan Engines Using
              Metaheuristic-Optimised {LSTM} with {SHAP}-Based Explainability},
   journal = {Pattern Analysis and Applications},
-  year    = {2025}
+  year    = {2026}
 }
 ```
 
