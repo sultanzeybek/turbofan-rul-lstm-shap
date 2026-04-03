@@ -47,7 +47,7 @@ turbofan-rul-lstm-shap/
 ## Dataset
 
 The NASA C-MAPSS dataset is publicly available at:  
-[https://data.nasa.gov/Aerospace/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
+https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/
 
 Download the six `.txt` files and place them in `data/CMAPSS/`.
 
